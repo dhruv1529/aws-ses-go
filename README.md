@@ -1,7 +1,3 @@
-I apologize for misunderstanding your initial request. Thank you for your patience! Let's convert the provided code snippet into a `readme.md` format. Below, I've adapted the code snippet and added some explanatory text:
-
----
-
 # Integrating Amazon SES in Go
 
 ## Setting Up AWS Credentials
