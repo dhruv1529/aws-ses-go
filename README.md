@@ -58,26 +58,3 @@ Remember to handle errors appropriately in your production code. Log any errors 
 ## Testing and Deployment
 
 Thoroughly test your integration and ensure that your AWS IAM permissions allow sending emails via SES. When deploying your application, securely manage your AWS credentials (e.g., using environment variables or IAM roles).
-
----
-
-Feel free to adapt this `readme.md` as needed for your project. If you have any further questions or need additional assistance, don't hesitate to ask! 😊¹²³ .
-
----
-
-Learn more:
-
-- [HTML to Markdown Converter](https://codebeautify.org/html-to-markdown) (Useful for creating README files)
-- [AWS SDK for Go V2 Documentation](https://pkg.go.dev/github.com/aws/aws-sdk-go-v2) (For modern AWS integration in Go)
-- [GitHub Repository: HTML to Markdown Converter](https://github.com/thephpleague/html-to-markdown) (Another useful tool for converting HTML to Markdown)
-- [READMEGenerator](https://www.readmegenerator.com/) (A tool for creating README files)
-
-Is there anything else I can assist you with? 😊
-
-Source: Conversation with Copilot, 26/9/2024
-(1) HTML to Markdown Converter - Code Beautify. https://codebeautify.org/html-to-markdown.
-(2) html-to-markdown/README.md at master - GitHub. https://github.com/thephpleague/html-to-markdown/blob/master/README.md.
-(3) READMEGenerator. https://www.readmegenerator.com/.
-(4) github.com. https://github.com/DauMau/blog.vidsey.io/tree/e9bf5f6d669f5e8955eedcdf585a1a412667c8a1/content%2Fpost%2Fawsandgo.md.
-(5) github.com. https://github.com/alerting/cap-openfaas/tree/dcd7fe84849c8bdb79d13acdf4bb8acb42d9c3ae/cap-get%2Fvendor%2Fgithub.com%2Faws%2Faws-sdk-go%2Fprivate%2Fprotocol%2Frestjson%2Fbuild_bench_test.go.
-(6) github.com. https://github.com/chakrabre/kubernetesclusters/tree/f4012407f8245d659c11eb4a46e6b6a26b5b827c/util%2Fpkg%2Fvfs%2Fs3context.go.
